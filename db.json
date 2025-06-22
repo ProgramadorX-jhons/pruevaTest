@@ -1,11 +1,23 @@
-{
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "id": "1",
+    "nombres": "Junior",
+    "apellidos": "Avendaño",
+    "correo": "junior@example.com",
+    "musica": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+  },
+  {
+    "id": "2",
+    "nombres": "Luz",
+    "apellidos": "Maribel",
+    "correo": "luz@example.com",
+    "musica": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3"
+  },
+  {
+    "id": "3",
+    "nombres": "Carlos",
+    "apellidos": "Huamán",
+    "correo": "carlos.huaman@example.com",
+    "musica": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
   }
-}
+]
